@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nomadcoder_movieApp/static/js/main.7b3cdbbb.js",
+    "index.html": "/nomadcoder_movieApp/index.html",
+    "main.7b3cdbbb.js.map": "/nomadcoder_movieApp/static/js/main.7b3cdbbb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7b3cdbbb.js"
+  ]
+}
